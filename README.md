@@ -1,9 +1,7 @@
 # Olá Devs. Sejam Bem-vindos
 
 ```html
-- ⏳ Tenho 35 anos  
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 👮 Policial Militar 
 - 🤟🏽 Amo Tecnologia
 ```
 
