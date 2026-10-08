@@ -19,7 +19,7 @@ com foco em **experiência, performance e simplicidade.**
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/jhones_dev58/">
+<a href="https://www.instagram.com/jhones_58">
 <img src="https://img.shields.io/badge/Instagram-7C3AED?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
