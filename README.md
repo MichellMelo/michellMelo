@@ -1,23 +1,158 @@
-# Olá Devs. Sejam Bem-vindos
+# 👋 Olá, eu sou Michell Melo
 
-```html
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🤟🏽 Amo Tecnologia
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Michell%20Melo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Automation%20%7C%20Digital%20Products&descAlignY=60&descSize=16" width="100%"/>
+
+</div>
+
+<div align="center">
+
+### Desenvolvedor Full Stack
+
+Construindo aplicações web, automações e produtos digitais  
+com foco em **experiência, performance e simplicidade.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/michell-melo-23a6301a8">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jhones_dev58/">
+<img src="https://img.shields.io/badge/Instagram-7C3AED?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.
+
+Meu foco está no desenvolvimento de soluções que combinam **engenharia de software, automação e boas experiências de usuário**.
+
+```text
+🎓  Análise e Desenvolvimento de Sistemas
+💻  Desenvolvimento Full Stack
+⚡  Automação de processos
+🚀  Produtos e aplicações web
+🧠  Aprendizado contínuo
 ```
 
-# Habilidades
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+## Stack
 
-# GitHub Stats
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichellMelo)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Frontend
 
-# Redes Sociais
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 
-<div></a><a href="https://www.instagram.com/jhones_dev58/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="http://www.linkedin.com/in/michell-melo-23a6301a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+### Backend
 
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+## Projetos
+
+> Alguns projetos em que venho trabalhando.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Automação
+
+Automação de processos web e integração entre sistemas, reduzindo tarefas repetitivas e aumentando produtividade.
+
+**Tecnologias**
+
+`Node.js` `Playwright` `Telegram`
+
+</td>
+
+<td width="50%">
+
+### 🏛️ Sistemas Institucionais
+
+Aplicações web voltadas para gestão, processos internos e digitalização de operações.
+
+**Tecnologias**
+
+`React` `Next.js` `NestJS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 SaaS & Dashboards
+
+Interfaces para sistemas de gestão com foco em clareza, produtividade e experiência do usuário.
+
+**Tecnologias**
+
+`React` `TypeScript` `Next.js`
+
+</td>
+
+<td width="50%">
+
+### 🧩 Experimentos
+
+Projetos pessoais utilizados para explorar novas tecnologias, arquiteturas e ideias.
+
+**Tecnologias**
+
+`TypeScript` `Node.js` `React`
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MichellMelo&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=7c3aed&text_color=64748b&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellMelo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=64748b&bg_color=00000000"/>
+
+</div>
+
+---
+
+## Atualmente
+
+```text
+→ Desenvolvendo aplicações web
+→ Explorando arquitetura Full Stack
+→ Criando automações
+→ Melhorando UX/UI de sistemas
+→ Aprendendo novas tecnologias
+```
+
+---
+
+<div align="center">
+
+### Construindo soluções, uma linha de código por vez. 
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MichellMelo&style=flat-square&color=2563eb&label=VISITAS+NO+PERFIL"/>
+
+</div>
